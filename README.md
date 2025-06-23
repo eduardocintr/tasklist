@@ -7,8 +7,8 @@
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/Rodrigoscast/contacliques.git
-cd contacliques
+git clone https://github.com/eduardocintr/tasklist.git
+cd tasklist
 ```
 
 ### 2. Instale as dependências
