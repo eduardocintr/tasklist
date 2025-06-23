@@ -1,16 +1,52 @@
-# eduardo_app
 
-A new Flutter project.
+# 📱 Lista de Tarefas
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Como rodar o projeto
 
-A few resources to get you started if this is your first Flutter project:
+### 1. Clone o repositório
+```bash
+git clone https://github.com/Rodrigoscast/contacliques.git
+cd contacliques
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 2. Instale as dependências
+```bash
+flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 3. Rode no navegador
+```bash
+flutter run -d chrome
+```
+
+> 💡 Se tiver problemas com o Chrome, use:
+```bash
+flutter run -d web-server
+```
+
+---
+
+## 💻 Tecnologias utilizadas
+
+- Flutter
+- Dart
+
+---
+
+## 📹 Demonstração em vídeo
+
+[Lista de Tarefas](eduardo.gif)
+
+---
+
+## 🌐 Teste online (versão web)
+
+🌍 [Clique aqui para acessar o app online](https://elaborate-sherbet-e2dbde.netlify.app)
+
+---
+
+## 🧠 Autor
+
+Desenvolvido por Eduardo Alberto Cintra - Engenharia de Software Uni-FACEF
